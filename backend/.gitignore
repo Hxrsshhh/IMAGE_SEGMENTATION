@@ -1,0 +1,38 @@
+# 🔥 Models
+*.pth
+*.pt
+*.ckpt
+
+# 📊 Outputs / predictions
+outputs/
+logs/
+runs/
+
+# 📦 Dataset (IMPORTANT — don’t upload this)
+dataset/
+
+# 🧠 Numpy / temp files
+*.npy
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+
+# 🌐 Virtual environment
+.venv/
+
+# 💻 IDE files (VERY IMPORTANT)
+.idea/
+.vscode/
+
+# 🪟 OS files
+.DS_Store
+Thumbs.db
+
+
+
+# logs / temp
+*.log
+
+# environment variables
+.env
