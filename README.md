@@ -61,12 +61,13 @@ dataset/
 Due to GitHub size limits, model is hosted externally:
 
 🔗 **Download Model Weights:**
-https://your-google-drive-link-here
+[https://your-google-drive-link-here](https://drive.google.com/drive/folders/1SX4eHerhDjwwHM8egL2MlXeYe-okx2xS?usp=sharing)
 
 Place it in project root:
 
 ```
 best_model.pth
+checkpoint.pth
 ```
 
 ---
